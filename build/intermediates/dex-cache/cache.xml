@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJW\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.9.0\1b6c10b5120995a7542c1a31b7828fb8593c8ba\okhttp-3.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01b6c10b5120995a7542c1a31b7828fb8593c8ba">
+        <dex dex="D:\AndroidStudioProjects\ServerSpinner\app\build\intermediates\pre-dexed\release\okhttp-3.9.0_b8923f6e1feb3d56177c2743e05e2a2cef478309.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ServerSpinner\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="72b1554c67222a814a30cb934b9a075584ede96b">
+        <dex dex="D:\AndroidStudioProjects\ServerSpinner\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_94f568116b8eb3245498b0f449de2385ddd34099\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MJW\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\AndroidStudioProjects\ServerSpinner\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_8fd05339adfdd09871d5cce19cd8802cd65e7e31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ServerSpinner\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\AndroidStudioProjects\ServerSpinner\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d729294e83d0205a12c2dce50e860734313a0073\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJW\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\AndroidStudioProjects\ServerSpinner\app\build\intermediates\pre-dexed\release\okio-1.13.0_8fd05339adfdd09871d5cce19cd8802cd65e7e31.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MJW\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.9.0\1b6c10b5120995a7542c1a31b7828fb8593c8ba\okhttp-3.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01b6c10b5120995a7542c1a31b7828fb8593c8ba">
+        <dex dex="D:\AndroidStudioProjects\ServerSpinner\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.9.0_b8923f6e1feb3d56177c2743e05e2a2cef478309\classes.dex" />
+    </item>
+
+</items>

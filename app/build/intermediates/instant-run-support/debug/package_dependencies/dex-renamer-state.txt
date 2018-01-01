@@ -1,0 +1,7 @@
+#Sat Oct 28 22:03:24 CDT 2017
+base.0=D\:\\AndroidStudioProjects\\ServerSpinner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\okio-1.13.0_8fd05339adfdd09871d5cce19cd8802cd65e7e31
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\AndroidStudioProjects\\ServerSpinner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\okhttp-3.9.0_b8923f6e1feb3d56177c2743e05e2a2cef478309\\classes.dex
+base.1=D\:\\AndroidStudioProjects\\ServerSpinner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\okhttp-3.9.0_b8923f6e1feb3d56177c2743e05e2a2cef478309
+file.0=D\:\\AndroidStudioProjects\\ServerSpinner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\okio-1.13.0_8fd05339adfdd09871d5cce19cd8802cd65e7e31\\classes.dex

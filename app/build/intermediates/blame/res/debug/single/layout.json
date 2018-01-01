@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\ServerSpinner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProjects\\ServerSpinner\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ServerSpinner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\newpic_name.xml",
+        "source": "D:\\AndroidStudioProjects\\ServerSpinner\\app\\src\\main\\res\\layout\\newpic_name.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ServerSpinner\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\ServerSpinner\\app\\src\\main\\res\\layout\\photo_layout.xml"
+    }
+]
